@@ -8,5 +8,9 @@
     "start": "node index.js",
   },
   "author": "DeVonte Ellis",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "pino": "^8.16.1"
+  }
 }
