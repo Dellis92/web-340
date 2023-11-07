@@ -14,3 +14,7 @@
     "pino": "^8.16.1"
   }
 }
+
+{
+  "script": const team = require('./team-manager.js');
+}
